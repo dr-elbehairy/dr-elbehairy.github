@@ -4,7 +4,7 @@
 ### PROFESSIONAL SUMMARY
   
 - PHD of science in Insurance and Actuarial Science, Master of science in Insurance and Actuarial Science, Bachelor of Science in Insurance and Actuarial science, now studying second Master of science in data science, artificial intelligence, and digital business at GISMA University in Berlin.
-with 15 years’ experience in teaching areas including:
+with 15 years’ experience in teaching areas including :
 • data analysis.          • Actuarial science.           • Life insurance.
 • Social insurance.       • Operation research.          • Calculus.
 • Mathematics.	          • Applied statistics.	         • Risk management
