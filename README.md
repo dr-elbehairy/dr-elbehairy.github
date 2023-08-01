@@ -1,7 +1,7 @@
 ## Data scientist and Assistant professor of risk management, insurance, and actuarial science.
        ( R, SPSS, E-VIEWS, PAYTHON, MSQL )
   
-  ### PROFESSIONAL SUMMARY
+### PROFESSIONAL SUMMARY
   
 - PHD of science in Insurance and Actuarial Science, Master of science in Insurance and Actuarial Science, Bachelor of Science in Insurance and Actuarial science, now studying second Master of science in data science, artificial intelligence, and digital business at GISMA University in Berlin.
 with 15 years’ experience in teaching areas including:
@@ -13,9 +13,9 @@ with 15 years’ experience in teaching areas including:
 - With my extensive knowledge in risk management, insurance, and actuarial science, as well as my deep understanding of the latest developments in data science, AI, and digital business, I believe I possess the ideal competencies and attributes required to excel in any industry or academic setting. My analytical and critical thinking skills, combined with my ability to work effectively in a team and communicate complex ideas clearly and concisely, make me a valuable asset to any organization.
 - I am excited to explore new opportunities and challenges in the industry, and to apply my skills and expertise to help companies develop innovative solutions that drive success and growth. Whether in an academic or industry setting, I am confident that my passion for learning and commitment to excellence will enable me to make a significant impact and achieve my career goals.
 
-  ### WORK EXPERIENCE:
+### WORK EXPERIENCE:
   
-  ### Zielke Research Consult GmbH, Aachen, Deutschland.         08/2022- 01/2023
+### Zielke Research Consult GmbH, Aachen, Deutschland.         08/2022- 01/2023
 
 As a working student in data analysis and actuarial science at Zeilke Research Consultant GmbH, I gained valuable experience in a variety of areas related to finance and risk management. During my five months with the company, I worked on projects related to data science, risk management, actuarial science, and financial reporting.
 My main responsibilities included:
