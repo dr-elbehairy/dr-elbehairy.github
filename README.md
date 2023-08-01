@@ -28,8 +28,7 @@ My main responsibilities included:
 Throughout my time at Zeilke Research Consultant GmbH, I gained a deeper understanding of risk management principles and practices, as well as the role that data analysis and actuarial science play in the financial industry. I also improved my skills in statistical software such as Python, and learned how to analyze financial reports in detail.
 Overall, my experience at Zeilke Research Consultant GmbH has been a valuable addition to my skill set as a working student in data analysis and actuarial science, and I believe that the knowledge and experience I have gained will be beneficial in future roles within the industry.
 
-
-### college of business administration, Taibah university          09/2019– Till now
+### college of business administration, Taibah university.          09/2019– Till now
 
  -Assistant professor of risk management, insurance, and actuarial science at the department of management information system.
 kingdom of Saudi Arabia.
